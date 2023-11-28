@@ -1,1 +1,1 @@
-git commit -n "ok"
+"ok"
